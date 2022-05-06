@@ -1,1 +1,9 @@
-README FILE
+ToDo:
+1. Import client and server files
+2. Import tna_tcam_dpi folder
+3. Import Control plane code
+4. Import Security policy translator code
+5. Import Domain name study folder + arrange data in order in it.
+6. Import results stats computing folder. (keep only relevent code there)
+7. Write an instruction file explaining how to run and understand current artifacts.
+
